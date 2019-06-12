@@ -1,1 +1,2 @@
-emacs -q --no-splash -f tetriss
+emacs -q --no-splash -f tetris
+arrow keys and space bar
